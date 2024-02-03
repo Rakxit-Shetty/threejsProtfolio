@@ -102,7 +102,8 @@ const Contact = () => {
             );
           })}
           <button
-            type="submit"
+            // type="submit"
+            type="button"
             className="bg-tertiary shadow-primary w-fit rounded-xl px-8 py-3 font-bold text-white shadow-md outline-none"
           >
             {loading ? "Sending..." : "Send"}

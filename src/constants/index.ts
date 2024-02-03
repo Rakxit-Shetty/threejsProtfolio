@@ -162,10 +162,10 @@ const experiences: TExperience[] = [
     iconBg: "#E6DEDD",
     date: "Auguest 2021 - June 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed strong soft skills, including communication, critical thinking, and time management, through academic and extracurricular activities.",
+      "Contributed to open-source projects, expanding practical experience and building a global professional network",
+      "Strong problem-solving skills developed through coursework and projects.",
+      "Proficient in multiple programming languages, including Python, Java, C++, and JavaScript",
     ],
   },
   
