@@ -25,11 +25,23 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-import pinnacle from "./company/pinnacle.png"
-import MIT from "./company/MIT.jpg"
+
+
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+
+//company
+import pinnacle from "./company/pinnacle.png";
+
+//education
+import MIT from "./company/MIT.jpg";
+
+// project
+import crypto29 from "./ssCrypto29.png";
+import toDo29 from "./ssToDo29.png";
+import weather29 from "./ssWeather29.png";
+
 
 export {
   logo,
@@ -61,5 +73,8 @@ export {
   jobit,
   tripguide,
   pinnacle,
-  MIT
+  MIT,
+  crypto29,
+  toDo29,
+  weather29
 };

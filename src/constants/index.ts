@@ -34,6 +34,9 @@ import {
   jobit,
   tripguide,
   threejs,
+  toDo29,
+  weather29,
+  crypto29,
 } from "../assets";
 
 export const navLinks: TNavLink[] = [
@@ -197,58 +200,34 @@ const testimonials: TTestimonial[] = [
 
 const projects: TProject[] = [
   {
-    name: "Car Rent",
+    name: "toDo 29",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Web-based platform that allows users to add todo data to track and make their work productive",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "bootstrap",
         color: "green-text-gradient",
       },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
+      
     ],
-    image: carrent,
-    sourceCodeLink: "https://github.com/",
+    image: toDo29,
+    sourceCodeLink: "https://todo29.vercel.app/",
   },
   {
-    name: "Job IT",
+    name: "weather 29",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "WEB App built with React JS and open weather API. focused on providing weather information on provided location.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    sourceCodeLink: "https://github.com/",
-  },
-  {
-    name: "Trip Guide",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "supabase",
+        name: "weatherAPI",
         color: "green-text-gradient",
       },
       {
@@ -256,8 +235,29 @@ const projects: TProject[] = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    sourceCodeLink: "https://github.com/",
+    image: weather29,
+    sourceCodeLink: "https://weather29.vercel.app/",
+  },
+  {
+    name: "Crypto Tracker 29",
+    description:
+      "A dynamic website built with React JS and coinGecko API, focused on providing data on Trending Crypto currency.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "coingecoAPI",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: crypto29,
+    sourceCodeLink: "https://crypto29.vercel.app/",
   },
 ];
 

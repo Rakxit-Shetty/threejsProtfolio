@@ -68,8 +68,8 @@ export const config: TConfig = {
       p: "Introduction",
       h2: "Overview.",
       content: `I'm a skilled software developer with experience in
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      git. I'm a quick learner and collaborate closely with team to
+      JavaScript, and expertise in MongoDB, Express, React, and Node.js.
+      I'm a quick learner and collaborate closely with team to
       create efficient, scalable, and user-friendly solutions that solve
       real-world problems.`,
     },
@@ -83,8 +83,8 @@ export const config: TConfig = {
     },
     works: {
       p: "My work",
-      h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
+      h2: "Side Projects.",
+      content: `Following side projects showcases my skills and experience through
     real-world examples of my work. Each project is briefly described with
     links to code repositories and live demos in it. It reflects my
     ability to solve complex problems, work with different technologies,
